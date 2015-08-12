@@ -10,7 +10,7 @@ permalink: /blog/
              {% for post in site.posts %}
        <div class="scroll-1 blog">
        <div class="container-fluid card {{ site.css }} z-depth-2 waves-effect waves-light">
-        <!--  <div class="cover z-depth-1" style="{% if post.cover %}background-image: url('{{ post.cover }}');{% endif %}">  [Uncomment for image?] -->
+        <div class="cover z-depth-1" style="{% if post.cover %}background-image: url('{{ post.cover }}');{% endif %}">
               <div class="filter {{site.css}}"></div>
           </div>
            <div class="card-content white-text">
