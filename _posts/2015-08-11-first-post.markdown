@@ -2,6 +2,6 @@
 layout: post
 title:  "My new blog!"
 date:   2015-08-11 21:06:00
-cover: "{{site.baseurl}}/img/1.jpg"
+cover: "{{site.baseurl}}/img/2.jpg"
 ---
 This is my new blog, here I will post things from what I'm thinking, to what I want to find out! 
