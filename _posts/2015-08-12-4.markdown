@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Post-icular Issues"
+date:   2015-08-12 10:11:00
+---
+If you can't read a post, the RSS Feed button shows all the text without the HTML5 format. I'll try to fix the blog, but as I said- I'm not big with design.
+
